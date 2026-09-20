@@ -86,10 +86,6 @@ and we will delete it.
   your display name. We will also request deletion of the associated analytics and crash
   data.
 
-> **Not implemented yet:** an in-app "Delete my data" button for Head-to-Head profiles.
-> Google Play requires one when an app lets users create an account-like profile. Launch
-> blocker for the Head-to-Head feature.
-
 ## Region-specific rights
 
 If you are in the EEA, the UK, or a US state with a comprehensive privacy law, you have
